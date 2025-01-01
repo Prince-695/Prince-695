@@ -109,15 +109,15 @@
     <img src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" alt="Prisma" width="40" height="40" />
   </a>
 
-  <!-- TypeScript -->
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
-  </a>
-
   <!-- Express -->
    <a href="https://expressjs.com/" target="_blank" rel="noreferrer" >
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" />
    </a>
+   
+  <!-- TypeScript -->
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+  </a>
 
 </div>
 
