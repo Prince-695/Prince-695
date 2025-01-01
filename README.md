@@ -115,7 +115,7 @@
   </a>
 
   <!-- Express -->
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer" "style='background-color: white;'">
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer" >
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" />
   </a>
 </div>
