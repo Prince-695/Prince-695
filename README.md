@@ -97,12 +97,12 @@
 ---
 
 ### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Prince-695&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prince-695&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prince-695&show_icons=true&theme=light&locale=en&layout=compact" alt="Stats" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-695&theme=dark" alt="Streak Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Prince-695&show_icons=true&theme=light&locale=en" alt="Stats" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-695&theme=light" alt="Streak Stats" />
 </p>
