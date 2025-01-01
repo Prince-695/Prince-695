@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 - 🔭 Currently working on **myself**  
-- 🌱 Learning **AI/ML, Full Stack (Intermediate Level), and DSA**  
+- 🌱 Learning **MERN Stack, DSA, Web Development Frameworks**  
 - 📫 Reach me at **rathodprince411@gmail.com**  
 
 ---
