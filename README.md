@@ -1,51 +1,56 @@
-<h1 align="center" style="color: black;">Hello 👋, I'm Prince Rathod</h1>
-<h3 align="center" style="color: gray;">A passionate Full Stack Web Developer and Web Designer from India</h3>
+<h1 align="center">Hello 👋, I'm Prince Rathod</h1>
+<h3 align="center">A Passionate Full Stack Web Developer and Designer from India</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Prince-695&label=Visitors&color=black&style=flat" alt="Prince-695" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Prince-695&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<ul>
-  <li>🔭 I’m currently working on <b>myself</b></li>
-  <li>🌱 I’m currently learning <b>AI/ML, Full Stack (Intermediate Level), and DSA</b></li>
-  <li>📫 How to reach me: <b>rathodprince411@gmail.com</b></li>
-</ul>
+---
 
-<h3 align="left" style="color: black;">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/vatsal_patel__" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="30" height="40" />
+### 👨‍💻 About Me
+- 🔭 Currently working on **myself**  
+- 🌱 Learning **AI/ML, Full Stack (Intermediate Level), and DSA**  
+- 📫 Reach me at **rathodprince411@gmail.com**  
+
+---
+
+### 🌐 Connect with Me:
+<p align="center">
+  <a href="https://twitter.com/vatsal_patel__" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/vatsalpatel09" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="40" />
+  <a href="https://linkedin.com/in/vatsalpatel09" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://kaggle.com/vatsalpatel09" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" width="30" height="40" />
+  <a href="https://kaggle.com/vatsalpatel09" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/vatsal_patel_09" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="40" />
+  <a href="https://instagram.com/vatsal_patel_09" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://codeforces.com/profile/fortem_09" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" width="30" height="40" />
+  <a href="https://codeforces.com/profile/fortem_09" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/vatsalpatel952005" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="30" height="40" />
+  <a href="https://www.leetcode.com/vatsalpatel952005" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
 
-<h3 align="left" style="color: black;">Languages and Tools:</h3>
-<p align="left">
+---
+
+### 🛠️ Languages and Tools:
+<p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
@@ -69,7 +74,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40" />
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40" />
@@ -84,16 +89,20 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
   </a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
   </a>
+
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prince-695&show_icons=true&theme=light&locale=en&layout=compact" alt="Stats" />
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Prince-695&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
 </p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Prince-695&show_icons=true&theme=light&locale=en" alt="Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prince-695&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
 </p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-695&theme=light" alt="Streak Stats" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-695&theme=dark" alt="GitHub Streak Stats" />
 </p>
