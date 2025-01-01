@@ -1,7 +1,7 @@
-<h1 align="center">Hello 👋, I'm Prince Rathod</h1>
-<h3 align="center">A Passionate Full Stack Web Developer and Designer from India</h3>
+<h1 align="left">Hello 👋, I'm Prince Rathod</h1>
+<h3 align="left">A Passionate Full Stack Web Developer and Designer from India</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Prince-695&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
