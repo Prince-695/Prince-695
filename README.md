@@ -16,16 +16,13 @@
 
 ### 🌐 Connect with Me:
 <p align="left">
-  <a href="https://twitter.com/vatsal_patel__" target="_blank">
+  <a href="https://x.com/Prince_Rathod69" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/vatsalpatel09" target="_blank">
+  <a href="https://www.linkedin.com/in/prince-rathod-3a9b1b2b8" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://kaggle.com/vatsalpatel09" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/vatsal_patel_09" target="_blank">
+  <a href="https://www.instagram.com/prince_rathod695/profilecard/?igsh=MWlnMXBpdmN1ZmY3aQ==" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="https://codeforces.com/profile/fortem_09" target="_blank">
