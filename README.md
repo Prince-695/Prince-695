@@ -132,7 +132,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Prince-695&show_icons=true&theme=light&locale=en" alt="Stats" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-695&theme=light" alt="Streak Stats" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Prince-695&theme=dark" alt="GitHub Streak" /></a>
 </p>
 
 
