@@ -131,6 +131,5 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Prince-695&show_icons=true&theme=light&locale=en" alt="Stats" />
 </p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-695&theme=light" alt="Streak Stats" />
-</p>
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Prince-695&theme=light)
+
