@@ -134,7 +134,7 @@
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-695&theme=light" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-695" alt="Streak Stats" />
 </p>
 
 
