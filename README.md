@@ -130,7 +130,7 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Prince-695&show_icons=true&theme=light&locale=en" alt="Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Prince-695&show_icons=true&locale=en" alt="Stats" />
 </p>
 
 <p>
