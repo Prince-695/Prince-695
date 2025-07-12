@@ -1,4 +1,4 @@
-<h1 align="left">Hello, I'm Prince Rathod 👋</h1>
+<h1 align="left">Hello 👋, I'm Prince Rathod</h1>
 <h3 align="left">A Passionate Full Stack Web Developer and Web Designer from India</h3>
 
 <p align="left">
