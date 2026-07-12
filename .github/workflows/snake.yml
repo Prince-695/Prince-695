@@ -1,0 +1,30 @@
+name: generate snake
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # regenerate every 6 hours
+  workflow_dispatch: {}      # lets you trigger it manually from the Actions tab
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: generate grayscale snake svg
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Prince-695
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=000000,111111,222222&color_dots=ebedf0,c6c6c6,8a8a8a,4a4a4a,000000&color_dots_border=e0e0e0
+
+      - name: push output to "output" branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
