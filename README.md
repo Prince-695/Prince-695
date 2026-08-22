@@ -181,16 +181,17 @@ I’m a confident software engineer who enjoys building things end-to-end and un
 
 <p align="center">
   <a href="https://github.com/Prince-695">
-    <img src="https://github-stats-extended.vercel.app/api?username=Prince-695&show_icons=true&include_all_commits=true&count_private=true&title_color=38bdf8&text_color=e2e8f0&icon_color=818cf8&bg_color=00000000&border_color=30363d&hide_border=false" alt="Prince-695's GitHub Stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=Prince-695&theme=dark&show_icons=true&include_all_commits=true&count_private=true&title_color=38bdf8&text_color=e2e8f0&icon_color=818cf8&border_color=30363d&hide_border=false" alt="Prince-695's GitHub Stats" />
   </a>
-  &nbsp;
+</p>
+<p align="center">
   <a href="https://github.com/Prince-695">
-    <img src="https://streak-stats.demolab.com?user=Prince-695&theme=dark&background=00000000&border=30363d&stroke=38bdf8&ring=38bdf8&fire=f59e0b&currStreakNum=ffffff&currStreakLabel=38bdf8&sideNums=ffffff&sideLabels=94a3b8&dates=94a3b8&hide_border=false" alt="Streak Stats" />
+    <img src="https://streak-stats.demolab.com?user=Prince-695&theme=dark&border=30363d&stroke=38bdf8&ring=38bdf8&fire=f59e0b&currStreakNum=ffffff&currStreakLabel=38bdf8&sideNums=ffffff&sideLabels=94a3b8&dates=94a3b8&hide_border=false" alt="Streak Stats" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Prince-695">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Prince-695&layout=compact&langs_count=8&title_color=38bdf8&text_color=e2e8f0&icon_color=818cf8&bg_color=00000000&border_color=30363d&hide_border=false" alt="Top Languages" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Prince-695&theme=dark&layout=compact&langs_count=8&title_color=38bdf8&text_color=e2e8f0&icon_color=818cf8&border_color=30363d&hide_border=false" alt="Top Languages" />
   </a>
 </p>
