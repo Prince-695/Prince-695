@@ -162,9 +162,9 @@ I’m a confident software engineering student who enjoys building things end-to
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg" />
-    <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prince-695/Prince-695/main/profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prince-695/Prince-695/main/profile-3d-contrib/profile-green-animate.svg" />
+    <img src="https://raw.githubusercontent.com/Prince-695/Prince-695/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
   </picture>
 </p>
 
