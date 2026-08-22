@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&section=header&text=Prince%20Rathod&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Systems%20%7C%20AI&descFontSize=16&descColor=94a3b8&descAlignY=78&descAlign=50" width="100%" alt="Prince Rathod Header" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&section=header&text=Prince%20Rathod&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Machine%20Learning%20%7C%20AI&descFontSize=16&descColor=94a3b8&descAlignY=78&descAlign=50" width="100%" alt="Prince Rathod Header" />
   <br/>
   <a href="https://princerathod.me">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=35&lines=Software+Engineer+building+modern+%26+scalable+products;Frontend+%E2%80%A2+Backend+%E2%80%A2+APIs+%E2%80%A2+Cloud+%E2%80%A2+DevOps;Exploring+Deep+Learning%2C+Transformers+%26+LLMs;Passionate+about+End-to-End+Systems+Architecture" alt="Typing SVG" />
