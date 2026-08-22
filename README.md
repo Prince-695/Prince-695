@@ -158,9 +158,9 @@ I’m a confident software engineer who enjoys building things end-to-end and un
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prince-695/Prince-695/main/profile-3d-contrib/profile-night-rainbow.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prince-695/Prince-695/main/profile-3d-contrib/profile-green-animate.svg" />
-    <img src="https://raw.githubusercontent.com/Prince-695/Prince-695/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prince-695/Prince-695/output/profile-3d-contrib/profile-night-green.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prince-695/Prince-695/output/profile-3d-contrib/profile-green-animate.svg" />
+    <img src="https://raw.githubusercontent.com/Prince-695/Prince-695/output/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution Graph" />
   </picture>
 </p>
 
@@ -179,16 +179,16 @@ I’m a confident software engineer who enjoys building things end-to-end and un
 
 <p align="center">
   <a href="https://github.com/Prince-695">
-    <img src="https://github-stats-extended.vercel.app/api?username=Prince-695&show_icons=true&include_all_commits=true&count_private=true&title_color=ffffff&text_color=e2e8f0&icon_color=ffffff&bg_color=000000&border_color=30363d&hide_border=false" alt="Prince-695's GitHub Stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=Prince-695&show_icons=true&include_all_commits=true&count_private=true&title_color=38bdf8&text_color=e2e8f0&icon_color=818cf8&bg_color=00000000&border_color=30363d&hide_border=false" alt="Prince-695's GitHub Stats" />
   </a>
   &nbsp;
   <a href="https://github.com/Prince-695">
-    <img src="https://streak-stats.demolab.com?user=Prince-695&theme=dark&stroke=ffffff&background=000000&border=30363d&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" alt="Streak Stats" />
+    <img src="https://streak-stats.demolab.com?user=Prince-695&theme=transparent&stroke=38bdf8&ring=38bdf8&fire=f59e0b&currStreakNum=ffffff&currStreakLabel=38bdf8&sideNums=ffffff&sideLabels=94a3b8&dates=94a3b8&border=30363d&hide_border=false" alt="Streak Stats" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Prince-695">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Prince-695&layout=compact&langs_count=8&title_color=ffffff&text_color=e2e8f0&icon_color=ffffff&bg_color=000000&border_color=30363d&hide_border=false" alt="Top Languages" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Prince-695&layout=compact&langs_count=8&title_color=38bdf8&text_color=e2e8f0&icon_color=818cf8&bg_color=00000000&border_color=30363d&hide_border=false" alt="Top Languages" />
   </a>
 </p>
