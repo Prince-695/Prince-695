@@ -1,8 +1,8 @@
-name: Generate Snake Animation
+name: Generate Profile Visuals
 
 on:
-  schedule: # Run every 24 hours
-    - cron: "0 0 * * *"
+  schedule:
+    - cron: "0 18 * * *" # Daily at 18:00 UTC (11:30 PM IST)
   workflow_dispatch:
   push:
     branches:
@@ -13,14 +13,18 @@ permissions:
 
 jobs:
   generate:
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+
+      - name: Generate 3D contribution graphs
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
 
       - name: Generate contribution snake SVGs
         uses: Platane/snk/svg-only@v3
@@ -33,11 +37,15 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push to output branch
+      - name: Organize all assets for deployment
+        run: |
+          mkdir -p dist
+          cp -r profile-3d-contrib dist/
+
+      - name: Push all visuals to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
-          keep_files: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
