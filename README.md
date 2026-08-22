@@ -35,7 +35,7 @@
 ### 👨‍💻 About Me
 
 <p align="left">
-I’m a confident software engineering student who enjoys building things end-to-end and understanding how systems work beyond just one layer of the stack. I work across frontend and backend development, APIs, databases, cloud, DevOps, and AI-powered systems, using technologies like <b>TypeScript</b>, <b>Java</b>, <b>Go</b>, and <b>Python</b> depending on the problem. I enjoy designing clean user experiences, building scalable services, and turning ideas into products that can actually be deployed and used. I’ve also explored machine learning and research, including deep learning, transformers, speech processing, and LLMs. Overall, I’m someone who learns by building, enjoys experimenting with new technologies, takes ownership of technical challenges, and is continuously working to become a stronger, more well-rounded software engineer.
+I’m a confident software engineer who enjoys building things end-to-end and understands how systems work beyond just one layer of the stack. I work across frontend and backend development, APIs, databases, cloud, DevOps, and AI-powered systems, using technologies like <b>TypeScript</b>, <b>JavaScript</b>, <b>Go</b>, and <b>Python</b> depending on the problem. I enjoy designing clean user experiences, building scalable services, and turning ideas into products that can actually be deployed and used. I’ve also explored machine learning and research, including deep learning, transformers, speech processing, and LLMs. Overall, I’m someone who learns by building, enjoys experimenting with new technologies, takes ownership of technical challenges, and is continuously working to become a stronger, more well-rounded software engineer.
 </p>
 
 <table>
@@ -54,10 +54,6 @@ I’m a confident software engineering student who enjoys building things end-to
   <tr>
     <td>⚡ &nbsp; <b>Core Focus</b></td>
     <td>Full-Stack Engineering • Systems Design • Cloud & DevOps • AI / ML</td>
-  </tr>
-  <tr>
-    <td>👀 &nbsp; <b>Profile Views</b></td>
-    <td><a href="https://github.com/Prince-695"><img src="https://komarev.com/ghpvc/?username=Prince-695&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" /></a></td>
   </tr>
 </table>
 
@@ -183,16 +179,16 @@ I’m a confident software engineering student who enjoys building things end-to
 
 <p align="center">
   <a href="https://github.com/Prince-695">
-    <img src="https://github-readme-stats.vercel.app/api?username=Prince-695&show_icons=true&include_all_commits=true&count_private=true&title_color=ffffff&text_color=e2e8f0&icon_color=ffffff&bg_color=000000&border_color=30363d&hide_border=false" alt="Prince-695's GitHub Stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=Prince-695&show_icons=true&include_all_commits=true&count_private=true&title_color=ffffff&text_color=e2e8f0&icon_color=ffffff&bg_color=000000&border_color=30363d&hide_border=false" alt="Prince-695's GitHub Stats" />
   </a>
   &nbsp;
   <a href="https://github.com/Prince-695">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=Prince-695&theme=dark&stroke=ffffff&background=000000&border=30363d&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" alt="Streak Stats" />
+    <img src="https://streak-stats.demolab.com?user=Prince-695&theme=dark&stroke=ffffff&background=000000&border=30363d&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" alt="Streak Stats" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Prince-695">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-695&layout=compact&langs_count=8&title_color=ffffff&text_color=e2e8f0&icon_color=ffffff&bg_color=000000&border_color=30363d&hide_border=false" alt="Top Languages" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Prince-695&layout=compact&langs_count=8&title_color=ffffff&text_color=e2e8f0&icon_color=ffffff&bg_color=000000&border_color=30363d&hide_border=false" alt="Top Languages" />
   </a>
 </p>
