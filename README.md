@@ -186,7 +186,7 @@ I’m a confident software engineer who enjoys building things end-to-end and un
 </p>
 <p align="center">
   <a href="https://github.com/Prince-695">
-    <img src="https://streak-stats.demolab.com?user=Prince-695&theme=dark&border=30363d&stroke=38bdf8&ring=38bdf8&fire=f59e0b&currStreakNum=ffffff&currStreakLabel=38bdf8&sideNums=ffffff&sideLabels=94a3b8&dates=94a3b8&hide_border=false" alt="Streak Stats" />
+    <img src="https://streak-stats.demolab.com?user=Prince-695&theme=dark&border=30363d&currStreakLabel=38bdf8&sideNums=ffffff&sideLabels=94a3b8&dates=94a3b8&hide_border=false" alt="Streak Stats" />
   </a>
 </p>
 
